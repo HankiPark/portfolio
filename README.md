@@ -56,7 +56,7 @@
 을 진행하였습니다.
 
 <details>
-  <summary>상세</summary>
+  <summary>프로젝트 세부내역</summary>
 
   ## 개발 일정
   
@@ -86,4 +86,6 @@
 
 
 </details>
+
+
 ---
