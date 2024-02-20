@@ -56,6 +56,10 @@
 을 진행하였습니다.
 
 <details>
+  <summary>상세</summary>
+
   # 개발 일정
+  
+  
 </details>
 ---
