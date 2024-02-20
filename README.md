@@ -59,7 +59,7 @@
   <summary>상세</summary>
 
   # 개발 일정
-  
+  <img src="/pic/개발일정.png" width="600px" height="600px" title="개발일정.bmp" alt="개발일정.bmp"></img>
   
 </details>
 ---
