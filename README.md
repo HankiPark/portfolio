@@ -58,8 +58,32 @@
 <details>
   <summary>상세</summary>
 
-  # 개발 일정
-  <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.bmp" alt="개발일정.bmp"></img>
+  ## 개발 일정
   
+  <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.png" alt="개발일정.png"></img>
+
+  ## 개발 환경
+  
+  <img src="/pic/개발환경.png" width="800px" height="600px" title="개발환경.png" alt="개발환경.png"></img>
+
+  ## 구현 상세
+
+  ### 업무 흐름도
+
+  <img src="/pic/업무 흐름도.png" width="800px" height="600px" title="업무 흐름도.png" alt="업무 흐름도.png"></img>
+
+
+  ### DB 구현 예시
+
+  <img src="/pic/DB설계 예시.png" width="800px" height="600px" title="DB설계 예시.png" alt="DB설계 예시.png"></img>
+
+
+  ### 화면 구현 예시
+
+  <img src="/pic/화면구현 예시.png" width="800px" height="600px" title="화면구현 예시.png" alt="화면구현 예시.png"></img>
+
+  <img src="/pic/화면구현 예시2.png" width="800px" height="600px" title="화면구현 예시2.png" alt="화면구현 예시2.png"></img>
+
+
 </details>
 ---
