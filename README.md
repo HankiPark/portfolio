@@ -7,7 +7,7 @@
 
 # 🔨Intro
 
-안녕하세요. 1년차 개발자 박한기입니다.
+안녕하세요. 개발자 박한기입니다.
 
 6개월간 Java를 위주로 한 개인, 팀 프로젝트를 진행하였고,
 1년간 C 개발자로 활동했습니다.
@@ -42,7 +42,7 @@
 ## Java project
 
 ### SolarSido
-[View Code]()
+[View Code](https://github.com/HankiPark/solarSido)
 
 국비교육과정 당시 MES(제조 실행 시스템)을 주제로 하여 만든 프로젝트입니다.
 팀장으로 프로젝트를 진행하였으며, 맡은 역할은 
@@ -55,5 +55,7 @@
   - 결과 통합
 을 진행하였습니다.
 
-[View Details]()
+<details>
+  # 개발 일정
+</details>
 ---
