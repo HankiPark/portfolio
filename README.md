@@ -64,12 +64,19 @@
   <summary>프로젝트 세부내역</summary>
 
   ## 개발 일정
+  21.12.27-22.2.17
+  <details>
+    <summary>상세</summary>
+    <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.png" alt="개발일정.png"></img>
+  </details>
   
-  <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.png" alt="개발일정.png"></img>
 
-  ## 개발 환경
+  ## 사용 기술
+
+  > javascript, java
+  > 
+  > Oracle, eGovFrame
   
-  <img src="/pic/개발환경.png" width="800px" height="600px" title="개발환경.png" alt="개발환경.png"></img>
 
   ## 구현 상세
 
