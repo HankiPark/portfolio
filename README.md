@@ -1,3 +1,6 @@
+<style type="text/css">
+	.text {font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;}
+</style>
 # 🔉HankiPark
 
 - 이름 : 박한기
