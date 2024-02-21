@@ -1,6 +1,5 @@
-<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
 
-
+  
 # 🔉HankiPark
 
 - 이름 : 박한기
@@ -74,7 +73,7 @@
   </details>
   
 
-  ## 사용 기술
+  ## 주 사용 기술
 
   > javascript, java
   > 
@@ -85,15 +84,17 @@
 
   ### 업무 흐름도
 
-  <img src="/pic/업무 흐름도.png" width="800px" height="600px" title="업무 흐름도.png" alt="업무 흐름도.png"></img>
+<img width="800px" alt="업무흐름도" src="https://github.com/HankiPark/portfolio/assets/89247586/55101bf9-6e7c-4d8d-b2f5-de38eaf32ccb">
 
 
-  ### DB 구현 예시
 
-  <img src="/pic/DB설계 예시.png" width="800px" height="600px" title="DB설계 예시.png" alt="DB설계 예시.png"></img>
+  ### DB 구현(생산)
+
+<img width="800px" alt="db생산" src="https://github.com/HankiPark/portfolio/assets/89247586/1ac770df-2e2b-493d-812f-a2172dde9d67">
 
 
-  ### 화면 구현 예시
+
+  ### 화면 구현
 
   <img src="/pic/화면구현 예시.png" width="800px" height="600px" title="화면구현 예시.png" alt="화면구현 예시.png"></img>
 
