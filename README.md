@@ -24,6 +24,72 @@
 
 # ⚡프로젝트 소개
 
+## Java project
+
+### SolarSido
+[View Code](https://github.com/HankiPark/solarSido)
+
+
+국비교육과정 당시 MES(제조 실행 시스템)을 주제로 하여 만든 프로젝트입니다.
+
+팀장으로 프로젝트를 진행하였으며, 맡은 역할은 
+
+  - 개발 환경 구축
+  - 일정 관리
+  - 업무 분장
+  - 클라이언트 UI 작업
+  - DB 구축 및 관리
+  - 로직 개발
+  - 결과 통합
+
+을 진행하였습니다.
+
+<details>
+  <summary>프로젝트 세부내역</summary>
+
+  ## 개발 일정
+  21.12.27-22.2.17
+  <details>
+    <summary>상세</summary>
+    <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.png" alt="개발일정.png"></img>
+  </details>
+  
+
+  ## 주 사용 기술
+
+  > javascript, java
+  > 
+  > Oracle, eGovFrame
+  
+
+  ## 구현 상세
+
+  ### 업무 흐름도
+
+<img width="800px" alt="업무흐름도" src="https://github.com/HankiPark/portfolio/assets/89247586/55101bf9-6e7c-4d8d-b2f5-de38eaf32ccb">
+
+
+
+  ### DB 구현(생산)
+
+<img width="800px" alt="db생산" src="https://github.com/HankiPark/portfolio/assets/89247586/1ac770df-2e2b-493d-812f-a2172dde9d67">
+
+
+
+  ### 화면 구현
+
+  <img src="/pic/화면구현 예시.png" width="800px" height="600px" title="화면구현 예시.png" alt="화면구현 예시.png"></img>
+
+  <img src="/pic/화면구현 예시2.png" width="800px" height="600px" title="화면구현 예시2.png" alt="화면구현 예시2.png"></img>
+
+
+</details>
+
+
+---
+
+
+
 ## C project
 
 ### Merge 4 BMP File
@@ -121,66 +187,3 @@
 ---
 
 
-## Java project
-
-### SolarSido
-[View Code](https://github.com/HankiPark/solarSido)
-
-
-국비교육과정 당시 MES(제조 실행 시스템)을 주제로 하여 만든 프로젝트입니다.
-
-팀장으로 프로젝트를 진행하였으며, 맡은 역할은 
-
-  - 개발 환경 구축
-  - 일정 관리
-  - 업무 분장
-  - 클라이언트 UI 작업
-  - DB 구축 및 관리
-  - 로직 개발
-  - 결과 통합
-
-을 진행하였습니다.
-
-<details>
-  <summary>프로젝트 세부내역</summary>
-
-  ## 개발 일정
-  21.12.27-22.2.17
-  <details>
-    <summary>상세</summary>
-    <img src="/pic/개발일정.png" width="800px" height="600px" title="개발일정.png" alt="개발일정.png"></img>
-  </details>
-  
-
-  ## 주 사용 기술
-
-  > javascript, java
-  > 
-  > Oracle, eGovFrame
-  
-
-  ## 구현 상세
-
-  ### 업무 흐름도
-
-<img width="800px" alt="업무흐름도" src="https://github.com/HankiPark/portfolio/assets/89247586/55101bf9-6e7c-4d8d-b2f5-de38eaf32ccb">
-
-
-
-  ### DB 구현(생산)
-
-<img width="800px" alt="db생산" src="https://github.com/HankiPark/portfolio/assets/89247586/1ac770df-2e2b-493d-812f-a2172dde9d67">
-
-
-
-  ### 화면 구현
-
-  <img src="/pic/화면구현 예시.png" width="800px" height="600px" title="화면구현 예시.png" alt="화면구현 예시.png"></img>
-
-  <img src="/pic/화면구현 예시2.png" width="800px" height="600px" title="화면구현 예시2.png" alt="화면구현 예시2.png"></img>
-
-
-</details>
-
-
----
