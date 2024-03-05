@@ -110,6 +110,30 @@
 
 ## C++ project
 
+## Omok
+
+[View Code](https://github.com/HankiPark/Mini/blob/main/Omok.cpp)
+
+[View Video](https://www.youtube.com/watch?v=TF-NUevrQYY)
+
+> 개발기간 : 24.2.26-3.4
+>
+> 개발언어 : C++
+>
+> 제약사항이 없는 오목을 구현했습니다.
+>
+<details> 
+  <summary>고려 사항</summary>
+  
+> 게임 시작 시 1vs1 모드와 vs computer 모드 구현
+>
+> vs computer 모드에서 시작(흑돌)은 무조건 플레이어이며 
+>  
+> 컴퓨터가 각 칸에 대해 점수를 정해진 로직에 따라 계산하여 가장 높은 칸중 하나에 백돌을 배치합니다.
+>
+> 정확히 5칸을 연속으로 배치에 성공할 경우 성공 이펙트와 함께 팝업창이 뜨며, 이후 게임판이 리셋됩니다.
+</details>
+
 ### Rock Paper Scissors 
 
 [View Code](https://github.com/HankiPark/Mini/blob/main/RockPaperScissors.cpp)
@@ -159,6 +183,8 @@
 
 [View Code](https://github.com/HankiPark/Mini/blob/main/SnakeGame.cpp)
 
+[View Video](https://www.youtube.com/watch?v=waesby3F-ys)
+
 > 개발기간 : 24.2.22-2.22
 >
 > 개발언어 : C++
@@ -183,6 +209,7 @@
   > 맵의 크기 조정하기 위한 옵션과 아무 조작없을 경우 자동 이동하는 옵션을 생각중이다.
 > 
 </details>
+
 
 
 ---
