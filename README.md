@@ -115,6 +115,16 @@
 
 [View Codes](https://github.com/HankiPark/Tetris-Win32)
 
+[View Video](https://youtu.be/OZBB-Uuzvj4)
+
+vs 컴퓨터
+
+<img src="https://github.com/HankiPark/portfolio/assets/89247586/15ba8e25-6fef-4675-8221-3f3f6768c1bd"></img>
+
+혼자 플레이
+
+<img src="https://github.com/HankiPark/portfolio/assets/89247586/e1a1544c-6f08-4aaa-baf2-f1fb0de508d7"></img>
+
 - 개발기간 : 24.3.7 - 3.25
 
 - 개발언어 : C++
